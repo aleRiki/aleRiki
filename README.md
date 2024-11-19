@@ -1,7 +1,6 @@
-## Hi there 👋
 
-<!--
-** aleRiki
+
+ aleRiki
 
 ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
 
@@ -26,4 +25,4 @@ Optimización de rendimiento en aplicaciones React y mejores prácticas para la 
 
 ## 💬 Ask me about ...
 Desarrollo web, JavaScript, React, y cómo integrar APIs en aplicaciones.
--->
+
