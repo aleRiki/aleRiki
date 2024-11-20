@@ -49,16 +49,10 @@ Desarrollo web, JavaScript, React, y cómo integrar APIs en aplicaciones.
  
   <a href="https://strapi.io" target="_blank" rel="noreferrer"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://javascript.com" target="_blank" rel="noreferrer">
-  <img src="https://javascript.com/images/logo.svg" alt="JavaScript" width="40" height="40"/>
-</a>
+ 
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://prisma.io" target="_blank" rel="noreferrer">
-  <img src="http://made-with.prisma.io/indigo.svg" alt="Prisma" width="40" height="40"/>
-</a>
- <a href="https://typeorm.io/" target="_blank" rel="noreferrer">
-  <img src="https://typeorm.io/img/typeorm-logo.svg" alt="TypeORM" width="40" height="40"/>
-</a>
+
+ 
 </p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ricardodeveloper&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardodeveloper&show_icons=true&locale=en&layout=compact&count_private=true&theme=github_dark&hide_border=true" alt="zahirinatzuke" /></p>
