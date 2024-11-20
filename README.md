@@ -54,7 +54,7 @@ Desarrollo web, JavaScript, React, y cómo integrar APIs en aplicaciones.
 </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://prisma.io" target="_blank" rel="noreferrer">
-  <img src="http://made-with.prisma.io/dark.svg" alt="Prisma" width="40" height="40"/>
+  <img src="http://made-with.prisma.io/indigo.svg" alt="Prisma" width="40" height="40"/>
 </a>
  <a href="https://typeorm.io/" target="_blank" rel="noreferrer">
   <img src="https://typeorm.io/img/typeorm-logo.svg" alt="TypeORM" width="40" height="40"/>
