@@ -46,7 +46,8 @@ Desarrollo web, JavaScript, React, y cómo integrar APIs en aplicaciones.
   <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://strapi.io" target="_blank" rel="noreferrer"> <img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=128,quality=90,fit=scale-down" alt="strapi" width="40" height="40"/></a>
+ 
+  <a href="https://strapi.io" target="_blank" rel="noreferrer"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
   <img src="https://www.javascript.com/images/logo.svg" alt="JavaScript" width="40" height="40"/>
@@ -60,5 +61,5 @@ Desarrollo web, JavaScript, React, y cómo integrar APIs en aplicaciones.
 </a>
 </p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ricardodeveloper&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahirinatzuke&show_icons=true&locale=en&layout=compact&count_private=true&theme=github_dark&hide_border=true" alt="zahirinatzuke" /></p>
 <a href="https://app.daily.dev/ricardodeveloper"><img src="https://api.daily.dev/devcards/0f37f6a73b244830ba354157634c81c7.png?r=f9s" width="400" alt="Alejandro Ricardo Ramirez's Dev Card"/></a>
