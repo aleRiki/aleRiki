@@ -2,7 +2,7 @@
 
 <p align="center">
   Ingeniero en Ciencias de la Computación · Full-stack (TypeScript) · IA aplicada<br/>
-  Cuba 🇨🇺 · Español (nativo) · English
+  Urugay UY · Español (nativo) · English
 </p>
 
 <p align="center">
